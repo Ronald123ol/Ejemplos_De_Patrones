@@ -1,0 +1,6 @@
+C:\Users\ronal\source\repos\patronEstrategia_cSharp\patronEstrategia_cSharp\bin\Debug\patronEstrategia_cSharp.exe.config
+C:\Users\ronal\source\repos\patronEstrategia_cSharp\patronEstrategia_cSharp\bin\Debug\patronEstrategia_cSharp.exe
+C:\Users\ronal\source\repos\patronEstrategia_cSharp\patronEstrategia_cSharp\bin\Debug\patronEstrategia_cSharp.pdb
+C:\Users\ronal\source\repos\patronEstrategia_cSharp\patronEstrategia_cSharp\obj\Debug\patronEstrategia_cSharp.csprojAssemblyReference.cache
+C:\Users\ronal\source\repos\patronEstrategia_cSharp\patronEstrategia_cSharp\obj\Debug\patronEstrategia_cSharp.exe
+C:\Users\ronal\source\repos\patronEstrategia_cSharp\patronEstrategia_cSharp\obj\Debug\patronEstrategia_cSharp.pdb
